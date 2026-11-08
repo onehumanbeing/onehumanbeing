@@ -1,4 +1,23 @@
-### Hi there 👋 ![VISITS](https://badges.pufler.dev/visits/onehumanbeing/onehumanbeing?style=flat-square&logo=github&color=blue&label=Github%20Visits)
+### Henry Yuan
 
-![STATS](https://github-readme-stats.vercel.app/api?username=onehumanbeing&show_icons=true&hide=issues&hide_border=true)
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=onehumanbeing&layout=compact&hide_border=true)
+English · [简体中文](README.zh-CN.md)
+
+Building **Handsy**: a $7 ESP32 board that lets AI use a real, stock iPhone. Open source, tested on real devices.
+
+Security background, forward-deployed engineer. I care whether a real-world problem actually gets solved.
+
+[![X](https://img.shields.io/badge/X-@iamhenryyuan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iamhenryyuan)
+[![handsy.tech](https://img.shields.io/badge/web-handsy.tech-000000?style=flat-square)](https://handsy.tech)
+
+#### Now
+
+| Project | What it does |
+| --- | --- |
+| [**esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) [![stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=flat-square&color=000000&label=%E2%98%85)](https://github.com/onehumanbeing/esp32-iphone-agent/stargazers) | AI drives a real iPhone: AirPlay for eyes, USB HID for hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak. |
+| [**stackchan-agent**](https://github.com/onehumanbeing/stackchan-agent) | A brain for the StackChan desk robot: firmware, JSON CLI and a local voice agent (camera, voice, servo arms). |
+| [**awesome-siri-skills**](https://github.com/HenryAgentTeam/awesome-siri-skills) | Curated Siri skills with a CLI and MCP server. [siriskills.com](https://siriskills.com) |
+| [**Hack123**](https://hack123.henryht.sh) | Hackathon directory for Chinese-speaking builders. |
+
+#### Before
+
+Tencent engineer · NYU, M.S. Cybersecurity · research on AI security and trustworthy ML · hackathon builder · earlier on-chain finance and dev tools on NEAR and Ethereum.
