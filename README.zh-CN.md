@@ -1,6 +1,6 @@
 ### 袁海天 Henry Yuan
 
-[English](README.md) · 简体中文
+[English](https://github.com/onehumanbeing) · 简体中文
 
 正在做 **Handsy**：一块 $7 的 ESP32 板子，让 AI 操作你的原装 iPhone。开源，真机实测。
 

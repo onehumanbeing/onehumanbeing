@@ -1,6 +1,6 @@
 ### Henry Yuan
 
-English · [简体中文](README.zh-CN.md)
+English · [简体中文](https://github.com/onehumanbeing/onehumanbeing/blob/main/README.zh-CN.md)
 
 Building **Handsy**: a $7 ESP32 board that lets AI use a real, stock iPhone. Open source, tested on real devices.
 
