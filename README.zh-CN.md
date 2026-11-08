@@ -22,7 +22,7 @@
 
 腾讯工程师 · NYU 网络安全硕士 · AI 安全与可信机器学习研究 · 黑客松 builder。
 
-#### 报道与分享
+#### 报道
 
 - [《世界日报》（纽约）：袁海天打造AI系統 服務傳統商家](https://www.worldjournal.com/wj/story/121390/9623951)
-- [南京医科大学第二附属医院：人工智能主题分享](https://m.jsnydefy.com/info/1144/68532.htm)
+- [央视：「春天里的中国」全球对话会美国专场（纽约，2026），科技投资领域嘉宾](https://www.cctv.com/2026/03/14/ARTIzZgkpb03wzzKLk02wvoa260314.shtml)

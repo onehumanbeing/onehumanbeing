@@ -24,5 +24,5 @@ Tencent engineer · NYU, M.S. Cybersecurity · research on AI security and trust
 
 #### Press & talks
 
-- [World Journal (New York): 袁海天打造AI系統 服務傳統商家](https://www.worldjournal.com/wj/story/121390/9623951)
-- [Talk on AI in healthcare, Second Affiliated Hospital of Nanjing Medical University](https://m.jsnydefy.com/info/1144/68532.htm)
+- [World Journal (New York): Henry Yuan builds AI systems for traditional merchants](https://www.worldjournal.com/wj/story/121390/9623951)
+- [CCTV: "China in Spring" Global Dialogue, US session (New York, 2026), guest in tech investment](https://www.cctv.com/2026/03/14/ARTIzZgkpb03wzzKLk02wvoa260314.shtml)
