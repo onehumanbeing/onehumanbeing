@@ -10,8 +10,8 @@ Founder with a security background. I build things that get real-world problems 
 [![handsy.tech](https://img.shields.io/badge/web-handsy.tech-000000?style=flat-square)](https://handsy.tech)
 
 <p>
-  <img src="https://github-stats.henry-ee1.workers.dev/api?username=onehumanbeing" alt="GitHub stats" height="190">
-  <img src="https://github-stats.henry-ee1.workers.dev/api/top-langs?username=onehumanbeing&langs_count=6&hide=WebAssembly" alt="Top languages" height="190">
+  <img src="https://github-stats.henry-ee1.workers.dev/api?username=onehumanbeing" alt="GitHub stats">
+  <img src="https://github-stats.henry-ee1.workers.dev/api/top-langs?username=onehumanbeing&langs_count=6&hide=WebAssembly" alt="Top languages">
 </p>
 
 #### Now
