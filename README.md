@@ -4,7 +4,7 @@ English · [简体中文](https://github.com/onehumanbeing/onehumanbeing/blob/ma
 
 Building **Handsy**: a $7 ESP32 board that lets AI use a real, stock iPhone. Open source, tested on real devices.
 
-Security background, forward-deployed engineer. I care whether a real-world problem actually gets solved.
+Founder with a security background. I build things that get real-world problems solved.
 
 [![X](https://img.shields.io/badge/X-@iamhenryyuan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iamhenryyuan)
 [![handsy.tech](https://img.shields.io/badge/web-handsy.tech-000000?style=flat-square)](https://handsy.tech)
@@ -20,4 +20,9 @@ Security background, forward-deployed engineer. I care whether a real-world prob
 
 #### Before
 
-Tencent engineer · NYU, M.S. Cybersecurity · research on AI security and trustworthy ML · hackathon builder · earlier on-chain finance and dev tools on NEAR and Ethereum.
+Tencent engineer · NYU, M.S. Cybersecurity · research on AI security and trustworthy ML · hackathon builder.
+
+#### Press & talks
+
+- [World Journal (New York): 袁海天打造AI系統 服務傳統商家](https://www.worldjournal.com/wj/story/121390/9623951)
+- [Talk on AI in healthcare, Second Affiliated Hospital of Nanjing Medical University](https://m.jsnydefy.com/info/1144/68532.htm)

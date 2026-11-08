@@ -4,7 +4,7 @@
 
 正在做 **Handsy**：一块 $7 的 ESP32 板子，让 AI 操作你的原装 iPhone。开源，真机实测。
 
-安全背景，forward-deployed engineer，只关心真实世界的问题有没有被解决。
+创业者，安全背景。只关心真实世界的问题有没有被解决。
 
 [![X](https://img.shields.io/badge/X-@iamhenryyuan-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/iamhenryyuan)
 [![handsy.tech](https://img.shields.io/badge/web-handsy.tech-000000?style=flat-square)](https://handsy.tech/zh/)
@@ -20,4 +20,9 @@
 
 #### 之前
 
-腾讯工程师 · NYU 网络安全硕士 · AI 安全与可信机器学习研究 · 黑客松 builder · 更早做过 NEAR / 以太坊上的链上金融和开发者工具。
+腾讯工程师 · NYU 网络安全硕士 · AI 安全与可信机器学习研究 · 黑客松 builder。
+
+#### 报道与分享
+
+- [《世界日报》（纽约）：袁海天打造AI系統 服務傳統商家](https://www.worldjournal.com/wj/story/121390/9623951)
+- [南京医科大学第二附属医院：人工智能主题分享](https://m.jsnydefy.com/info/1144/68532.htm)
