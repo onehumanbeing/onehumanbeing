@@ -14,8 +14,6 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**esp32-iphone-agent**](https://github.com/onehumanbeing/esp32-iphone-agent) [![stars](https://img.shields.io/github/stars/onehumanbeing/esp32-iphone-agent?style=flat-square&color=000000&label=%E2%98%85)](https://github.com/onehumanbeing/esp32-iphone-agent/stargazers) | 让 AI 操作真 iPhone：AirPlay 当眼睛、USB HID 当手，接任意 OpenAI 兼容视觉模型。不需要 Mac、开发者账号或越狱。 |
-| [**stackchan-agent**](https://github.com/onehumanbeing/stackchan-agent) | 给 StackChan 桌面机器人装个大脑：固件、JSON CLI 和本地语音 Agent（摄像头、语音、舵机手臂）。 |
-| [**awesome-siri-skills**](https://github.com/HenryAgentTeam/awesome-siri-skills) | Siri 技能精选，附 CLI 和 MCP。[siriskills.com](https://siriskills.com) |
 | [**黑123**](https://hack123.henryht.sh) | 面向中文开发者的黑客松导航站。 |
 
 #### 之前
